@@ -58,8 +58,6 @@ A API poderá ser acessada em [localhost:8180](http://localhost:8180).
 
 Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](https://www.postman.com/)
 
-
--- AUTH
 ```
 POST /api/v1/auth - Realizar login
 ```
